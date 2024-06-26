@@ -1,10 +1,28 @@
+<div align="center">
+
 # Perfect Line Height
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+
 
 It is commonly understood that line-height is a 1.5 multiplier of font-size. However, this is not only a reductionist approach, but there are other factors that depend on it such as the font-family or the number of lines. This page is intended as a tool for developers to know the line-height that best suits their text.
 
+</div>
+
+## Screenshots
+
+![image]()
+
+![image]()
+
 ## Authors
 
-- [@afor_digital](https://www.github.com/afordigital)
+<a href="https://github.com/afordigital">
+   <img width="50px" src="https://avatars.githubusercontent.com/u/43246362?v=4" />
+</a>
 
 ## Contributors
 
@@ -54,13 +72,30 @@ ultra dev
 
 and open http://localhost:3000 🌺.
 
-## Stack
+## 🛠️ Stack
 
-- Vite > v4.4
-- React > v18.2
-- UnoCSS > v0.56
+[![Vite][vite-badge]][vite-url]
+[![React][react-badge]][react-url]
+[![UnoCSS][unocss-badge]][unocss-url]
+
 - Presets de icons y tipografía en UnoCSS
 
-## Deployment
+## 🚀 Deployment
 
 Vercel: https://perfect-line-height.vercel.app
+
+
+[contributors-shield]: https://img.shields.io/github/contributors/afordigital/perfect-line-height.svg?style=for-the-badge
+[contributors-url]: https://github.com/afordigital/perfect-line-height/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/afordigital/perfect-line-height.svg?style=for-the-badge
+[forks-url]: https://github.com/afordigital/perfect-line-height/network/members
+[stars-shield]: https://img.shields.io/github/stars/afordigital/perfect-line-height.svg?style=for-the-badge
+[stars-url]: https://github.com/afordigital/perfect-line-height/stargazers
+[issues-shield]: https://img.shields.io/github/issues/afordigital/perfect-line-height.svg?style=for-the-badge
+[issues-url]: https://github.com/afordigital/perfect-line-height/issues
+[vite-url]: https://vitejs.dev/
+[react-url]: https://reactjs.org/
+[unocss-url]: https://unocss.dev/
+[vite-badge]: https://img.shields.io/badge/Vite-fff?style=for-the-badge&logo=vite&logoColor=333
+[react-badge]: https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=333
+[unocss-badge]: https://img.shields.io/badge/UnoCSS-fff?style=for-the-badge&logo=unocss&logoColor=333
