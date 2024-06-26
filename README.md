@@ -14,9 +14,9 @@ It is commonly understood that line-height is a 1.5 multiplier of font-size. How
 
 ## Screenshots
 
-![image]()
+![image](https://github.com/Edgarmejiav/perfect-line-height/assets/35704346/c743bce1-472e-4dc2-a914-7f5de8061c8d)
 
-![image]()
+
 
 ## Authors
 
@@ -78,7 +78,6 @@ and open http://localhost:3000 🌺.
 [![React][react-badge]][react-url]
 [![UnoCSS][unocss-badge]][unocss-url]
 
-- Presets de icons y tipografía en UnoCSS
 
 ## 🚀 Deployment
 
